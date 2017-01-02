@@ -1,0 +1,6 @@
+TYPE="Ethernet"
+NAME="eth0"
+DEVICE="eth0"
+ONBOOT=yes
+NM_CONTROLLED=no
+BRIDGE=br0

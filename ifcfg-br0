@@ -1,0 +1,5 @@
+DEVICE=br0
+TYPE=Bridge
+BOOTPROTO=dhcp
+MACADDR=ab:cd:ef:gh:ij
+ONBOOT=yes

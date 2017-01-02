@@ -1,0 +1,4 @@
+DEVICE=veth0
+DEVICETYPE=veth
+VETH_PEER=veth1
+BRIDGE=br0
